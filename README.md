@@ -155,4 +155,3 @@ Quien clone el proyecto necesitará configurar: `DATABASE_URL`, `JWT_SECRET`, `T
 
 ---
 
-*Documento generado para el repositorio de CineFile. Listo para copiar en `README.md` o en `docs/scope.md`.*
